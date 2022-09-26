@@ -1,0 +1,12 @@
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.deps.json
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.pdb
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.csproj.AssemblyReference.cache
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.AssemblyInfoInputs.cache
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.AssemblyInfo.cs
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.csproj.CoreCompileInputs.cache
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\refint\Bootcamp.ViewModel.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.pdb
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.ViewModel\obj\Debug\net6.0\ref\Bootcamp.ViewModel.dll

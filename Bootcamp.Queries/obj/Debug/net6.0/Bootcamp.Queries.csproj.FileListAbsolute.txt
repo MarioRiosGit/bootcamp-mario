@@ -1,0 +1,15 @@
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.Queries.deps.json
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.Queries.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.Queries.pdb
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.ViewModel.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\bin\Debug\net6.0\Bootcamp.ViewModel.pdb
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.csproj.AssemblyReference.cache
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.AssemblyInfoInputs.cache
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.AssemblyInfo.cs
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.csproj.CoreCompileInputs.cache
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.csproj.CopyComplete
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\refint\Bootcamp.Queries.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\Bootcamp.Queries.pdb
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Queries\obj\Debug\net6.0\ref\Bootcamp.Queries.dll
