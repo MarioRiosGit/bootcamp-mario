@@ -24,6 +24,32 @@ namespace Bootcamp.Api.Controllers
             return Ok(result);
         }
 
+        [HttpGet]
+        [Route("GetAll")]
+        public async Task<ActionResult> GetAll()
+        {
+            var result = await _personRepository.GetAll();
+            return Ok(result);
+        }
+
         [HttpPut]
+        [Route("Update")]
+
+        public async Task<ActionResult> Update([FromBody] Person person)
+        {
+            var result = await _personRepository.Update(person);
+            return Ok(result);
+        }
+
+        [HttpDelete]
+        [Route("Delete")]
+
+        public async Task<ActionResult> Delete()
+        {
+            var result = await _personRepository.Delete();
+            return Ok(result);
+        }
+
+
     }
 }

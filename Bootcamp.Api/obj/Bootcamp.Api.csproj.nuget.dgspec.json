@@ -233,6 +233,9 @@
             "projectReferences": {
               "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.Model\\Bootcamp.Model.csproj": {
                 "projectPath": "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.Model\\Bootcamp.Model.csproj"
+              },
+              "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj": {
+                "projectPath": "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj"
               }
             }
           }

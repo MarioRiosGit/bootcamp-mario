@@ -13,3 +13,5 @@ D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.R
 D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Repository\obj\Debug\net6.0\refint\Bootcamp.Repository.dll
 D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.pdb
 D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Repository\obj\Debug\net6.0\ref\Bootcamp.Repository.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Repository\bin\Debug\net6.0\Bootcamp.ViewModel.dll
+D:\bootcamp\Repos\bootcamp-mario\Bootcamp.Repository\bin\Debug\net6.0\Bootcamp.ViewModel.pdb

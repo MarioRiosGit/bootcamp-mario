@@ -220,6 +220,16 @@
         "runtime": {
           "bin/placeholder/Bootcamp.Model.dll": {}
         }
+      },
+      "Bootcamp.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Bootcamp.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bootcamp.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -628,11 +638,17 @@
       "type": "project",
       "path": "../Bootcamp.Model/Bootcamp.Model.csproj",
       "msbuildProject": "../Bootcamp.Model/Bootcamp.Model.csproj"
+    },
+    "Bootcamp.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../Bootcamp.ViewModel/Bootcamp.ViewModel.csproj",
+      "msbuildProject": "../Bootcamp.ViewModel/Bootcamp.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Bootcamp.Model >= 1.0.0",
+      "Bootcamp.ViewModel >= 1.0.0",
       "Dapper >= 2.0.123",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0",
       "System.Data.SqlClient >= 4.8.3"
@@ -667,6 +683,9 @@
           "projectReferences": {
             "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.Model\\Bootcamp.Model.csproj": {
               "projectPath": "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.Model\\Bootcamp.Model.csproj"
+            },
+            "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj": {
+              "projectPath": "D:\\bootcamp\\Repos\\bootcamp-mario\\Bootcamp.ViewModel\\Bootcamp.ViewModel.csproj"
             }
           }
         }

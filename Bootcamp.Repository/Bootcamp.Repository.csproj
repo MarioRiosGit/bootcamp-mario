@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Bootcamp.Model\Bootcamp.Model.csproj" />
+    <ProjectReference Include="..\Bootcamp.ViewModel\Bootcamp.ViewModel.csproj" />
   </ItemGroup>
 
 </Project>
